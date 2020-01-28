@@ -1,2 +1,2 @@
-# binkoushoji
-http://binkoushoji.jp/
+# 便行商事
+https://www.binkoushouji.co.jp/
